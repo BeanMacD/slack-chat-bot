@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="main/java"/>
+	<classpathentry kind="src" path="test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/noellemacdonagh/Desktop/java-json 2.jar"/>
+	<classpathentry kind="lib" path="/Users/noellemacdonagh/Desktop/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="/Users/noellemacdonagh/Desktop/elasticsearch-5.4.3/lib"/>
+	<classpathentry kind="lib" path="main/resources/hibernate.cfg.xml"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
